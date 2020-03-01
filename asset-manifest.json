@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Samsebamse/samsebamse.github.io.git/static/css/main.f04c7dac.chunk.css",
+    "main.js": "/Samsebamse/samsebamse.github.io.git/static/js/main.d752342b.chunk.js",
+    "main.js.map": "/Samsebamse/samsebamse.github.io.git/static/js/main.d752342b.chunk.js.map",
+    "runtime-main.js": "/Samsebamse/samsebamse.github.io.git/static/js/runtime-main.80afd84d.js",
+    "runtime-main.js.map": "/Samsebamse/samsebamse.github.io.git/static/js/runtime-main.80afd84d.js.map",
+    "static/js/2.20a191cd.chunk.js": "/Samsebamse/samsebamse.github.io.git/static/js/2.20a191cd.chunk.js",
+    "static/js/2.20a191cd.chunk.js.map": "/Samsebamse/samsebamse.github.io.git/static/js/2.20a191cd.chunk.js.map",
+    "index.html": "/Samsebamse/samsebamse.github.io.git/index.html",
+    "precache-manifest.563bb3f5c4e9999287ddba8ed4ddfffe.js": "/Samsebamse/samsebamse.github.io.git/precache-manifest.563bb3f5c4e9999287ddba8ed4ddfffe.js",
+    "service-worker.js": "/Samsebamse/samsebamse.github.io.git/service-worker.js",
+    "static/css/main.f04c7dac.chunk.css.map": "/Samsebamse/samsebamse.github.io.git/static/css/main.f04c7dac.chunk.css.map",
+    "static/js/2.20a191cd.chunk.js.LICENSE.txt": "/Samsebamse/samsebamse.github.io.git/static/js/2.20a191cd.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/Samsebamse/samsebamse.github.io.git/static/media/blackwood2.17bd466a.jpg",
+    "static/media/iconangular.png": "/Samsebamse/samsebamse.github.io.git/static/media/iconangular.365e6088.png",
+    "static/media/iconangular_bw.png": "/Samsebamse/samsebamse.github.io.git/static/media/iconangular_bw.270a1591.png",
+    "static/media/iconcsharp.png": "/Samsebamse/samsebamse.github.io.git/static/media/iconcsharp.4d61f7b5.png",
+    "static/media/iconcsharp_bw.png": "/Samsebamse/samsebamse.github.io.git/static/media/iconcsharp_bw.c6e845ae.png",
+    "static/media/iconjava.png": "/Samsebamse/samsebamse.github.io.git/static/media/iconjava.3c3ad018.png",
+    "static/media/iconjava_bw.png": "/Samsebamse/samsebamse.github.io.git/static/media/iconjava_bw.018b5e4e.png",
+    "static/media/iconreact.png": "/Samsebamse/samsebamse.github.io.git/static/media/iconreact.c2f77108.png",
+    "static/media/iconreact_bw.png": "/Samsebamse/samsebamse.github.io.git/static/media/iconreact_bw.82ad9fc8.png",
+    "static/media/portrait.png": "/Samsebamse/samsebamse.github.io.git/static/media/portrait.7f033a2f.png",
+    "static/media/project.png": "/Samsebamse/samsebamse.github.io.git/static/media/project.9445940d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80afd84d.js",
+    "static/js/2.20a191cd.chunk.js",
+    "static/css/main.f04c7dac.chunk.css",
+    "static/js/main.d752342b.chunk.js"
+  ]
+}
